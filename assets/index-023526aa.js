@@ -1341,4 +1341,4 @@ Values:
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-`;function dfe(){return fr.useEffect(()=>{var t;const e=(t=window.Telegram)==null?void 0:t.WebApp;e&&(e.expand(),e.ready())},[]),c$(),pr(Wk,{manifestUrl:"https://your-manifest-url.json",children:pr(hfe,{children:pr(cfe,{children:pr(ffe,{})})})})}const pfe="https://raw.githubusercontent.com/ton-community/tutorials/main/03-client/test/public/tonconnect-manifest.json",vfe=new X$({defaultOptions:{queries:{refetchOnWindowFocus:!1}}});Y3.createRoot(document.getElementById("root")).render(pr(Wk,{manifestUrl:pfe,children:pr(oN,{client:vfe,children:pr(dfe,{})})}));
+`;function dfe(){return fr.useEffect(()=>{var t;const e=(t=window.Telegram)==null?void 0:t.WebApp;e&&(e.expand(),e.ready())},[]),c$(),pr(Wk,{manifestUrl:"https://your-manifest-url.json",children:pr(hfe,{children:pr(cfe,{children:pr(ffe,{})})})})}const pfe="https://raw.githubusercontent.com/riskyghazi/axicot/main/public/tonconnect-manifest.json",vfe=new X$({defaultOptions:{queries:{refetchOnWindowFocus:!1}}});Y3.createRoot(document.getElementById("root")).render(pr(Wk,{manifestUrl:pfe,children:pr(oN,{client:vfe,children:pr(dfe,{})})}));
